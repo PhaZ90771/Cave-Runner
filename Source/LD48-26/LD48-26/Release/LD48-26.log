@@ -1,0 +1,17 @@
+﻿Build started 4/29/2013 9:22:15 PM.
+     1>Project "C:\Users\Ben\[Projects]\Ludum Dare\LD48-26\LD48-26\LD48-26.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /IC:\SDL\include /IC:\SDL_Image\include /IC:\SDL_TTF\include /IC:\FreeGLUT\include\GL\ /Zi /nologo /W3 /WX- /sdl /O2 /Oi /Oy- /GL /D _MBCS /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Ben\[Projects]\Ludum Dare\LD48-26\Release\LD48-26.exe" /NOLOGO /LIBPATH:C:\SDL\lib\x86 /LIBPATH:C:\SDL_Image\lib\x86 /LIBPATH:C:\SDL_TTF\lib\x86 /LIBPATH:C:\FreeGLUT\lib\ SDL.lib SDLmain.lib SDL_image.lib SDL_ttf.lib OpenGL32.lib freeglut.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Ben\[Projects]\Ludum Dare\LD48-26\Release\LD48-26.pdb" /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Ben\[Projects]\Ludum Dare\LD48-26\Release\LD48-26.lib" /MACHINE:X86 /SAFESEH Release\engine.obj
+         Release\level.obj
+         Release\main.obj
+         Release\player.obj
+         Release\utilities.obj
+     1>LINK : fatal error LNK1561: entry point must be defined
+     1>Done Building Project "C:\Users\Ben\[Projects]\Ludum Dare\LD48-26\LD48-26\LD48-26.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:02.08
