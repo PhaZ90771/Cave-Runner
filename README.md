@@ -1,4 +1,6 @@
 # Cave-Runner
+![Screenshit](/Screenshots/Screenshot.png)
+
 This was my first entry into a Ludum Dare. It was rather challenging getting a game up and running from scratch in 72 hours, especially since I only ended up being able to work part of the weekend.
 
 I coded this in C++ using Visual Studio Express 2012. I used the SDL and OpenGL libraries for the graphics. All graphics are generated in code. The cave is randomly generated as you go.
@@ -9,4 +11,8 @@ Move: Arrow Keys
 
 Hope you have fun!
 
-[Ludum Dare Entry Page](http://ludumdare.com/compo/ludum-dare-26/?action=preview&uid=7060)
+[Download](/Compiled/)
+
+[Source](/Source/LD48-26/)
+
+[Ludum Dare](http://ludumdare.com/compo/ludum-dare-26/?action=preview&uid=7060)
