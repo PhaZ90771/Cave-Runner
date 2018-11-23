@@ -8,3 +8,5 @@ To play just extract the zip and run the "LD48-26.exe" file. Controls are listed
 Move: Arrow Keys
 
 Hope you have fun!
+
+[Ludum Dare Entry Page](http://ludumdare.com/compo/ludum-dare-26/?action=preview&uid=7060)
